@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Harkkatyo</string>
+    <string name="elokuvalista">Finnkinon elokuvalista:</string>
+    <string name="arvostelut">Arvostelut</string>
+    <string name="lis_arvostelu">Lisää arvostelu</string>
+    <string name="sulje">Sulje</string>
+</resources>
